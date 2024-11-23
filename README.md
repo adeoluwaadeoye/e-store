@@ -15,7 +15,7 @@ An elegant and responsive e-commerce platform built with React, offering feature
 - Build Tool: Vite or Create React App
 - Tailwind CSS
 
-![Product page](src/screenshots/product-page.png)
+![Homepage](src/img/hero.png)
 
 ## 🖥️ Installation
 1. Clone the repository:
