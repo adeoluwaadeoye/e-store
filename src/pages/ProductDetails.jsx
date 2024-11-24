@@ -55,7 +55,7 @@ const ProductDetails = () => {
               $ {price}
             </div>
             <p className='mb-8'>
-              {truncateDescription(description, 45)}
+              {truncateDescription(description, 30)}
             </p>
             <button onClick={() => addToCart(product, product.id)} className='bg-primary py-4 px-8 text-white'>
               Add to cart
