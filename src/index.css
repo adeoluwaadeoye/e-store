@@ -16,3 +16,13 @@
     @apply font-primary text-primary;
   }
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+.no-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
